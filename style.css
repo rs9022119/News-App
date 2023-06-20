@@ -1,0 +1,23 @@
+.background{
+    background-color: rgb(158, 44, 240);
+}
+.heading{
+    font-size: 20px;
+    height: 135px;
+}
+.desc{
+    font-size: 15px;
+    height: 250px;
+}
+.srcs{
+    background-color: rgb(227, 129, 227);
+    text-align: center;
+}
+.date{
+    background-color: rgb(177, 230, 230);
+    text-align: center;
+    font-size: 13px;
+}
+body{
+    overflow-x: hidden;
+}
